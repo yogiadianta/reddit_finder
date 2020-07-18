@@ -5,8 +5,8 @@
 ## Quick Start
 
 ```bash
-# Install Parcel in the repository
-npm i -D parcel-bundler
+# Install Parcel globally
+npm install -g parcel-bundler
 
 # Serve on localhost:1234
 npm run dev
