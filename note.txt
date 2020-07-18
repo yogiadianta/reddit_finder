@@ -1,0 +1,4 @@
+How to run
+npm i -D parcel-bundler
+add "dev":"parcel index.html"
+npm run dev
